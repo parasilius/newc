@@ -4,6 +4,7 @@ with the following code in it:
 
 ```C
 #include <stdio.h>
+
 int main(void)
 {
     return 0;
